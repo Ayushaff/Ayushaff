@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush sharma</h1>
-<h3 align="center">A passionate Full-Stack Developer from India I’m currently working on- MERN & Data Structures & Algorithms.</h3>
+<h3 align="center">A passionate Full-Stack Developer from India I’m currently working on- JAVA , NEXTJS, Data Structures & Algorithms.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
