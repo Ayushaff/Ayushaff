@@ -7,16 +7,12 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
-
-
-I am a **Computer Science** student, currently halfway through my degree, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer for the restaurant industry, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
+A passionate Full-Stack Developer from India I’m currently working on- JAVA , NEXTJS, Data Structures & Algorithms.
 - 📚 I’m currently learning ...
-  - *Angular*
-  - *TypeScript*
+  - *AGENTIC WORKFLOWS*
+  - *AI*
 - 🚀 I’m eager to join new projects.
 - ✔ Feel free to ask me anything! I’m motivated to help others.
-- Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love 🎸 playing musical instruments.
 - 📫 Reach out to me at: <a href="leonardobravoricapa@gmail.com">ayusharmaa.011@gmail.com</a>
 <br>
 <div align="center"> <a href="https://drive.google.com/file/d/1LIDIHLteC_5ZFIFe7cPf4g7YN4a1vD-5/view" download> <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Download Resume"> </a> </div>
