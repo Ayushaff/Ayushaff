@@ -15,7 +15,7 @@ A passionate Full-Stack Developer from India I’m currently working on- JAVA , 
 - ✔ Feel free to ask me anything! I’m motivated to help others.
 - 📫 Reach out to me at: <a href="leonardobravoricapa@gmail.com">ayusharmaa.011@gmail.com</a>
 <br>
-<div align="center"> <a href="https://drive.google.com/file/d/1LIDIHLteC_5ZFIFe7cPf4g7YN4a1vD-5/view" download> <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Download Resume"> </a> </div>
+<div align="center"> <a href="[https://drive.google.com/file/d/1LIDIHLteC_5ZFIFe7cPf4g7YN4a1vD-5/view](https://drive.google.com/file/d/1Jy64vTYm9kxcIUr9y4B33wfxhe35ecXq/view?usp=sharing)" download> <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Download Resume"> </a> </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
 <!-- Profile Trophies -->
